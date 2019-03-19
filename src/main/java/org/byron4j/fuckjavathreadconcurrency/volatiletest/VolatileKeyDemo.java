@@ -1,6 +1,6 @@
-package basic;
+package org.byron4j.fuckjavathreadconcurrency.volatiletest;
 
-import utils.Utils;
+import org.byron4j.fuckjavathreadconcurrency.utils.Utils;
 
 /**
  * volatile 关键字用法
