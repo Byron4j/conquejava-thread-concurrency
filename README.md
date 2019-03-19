@@ -24,7 +24,7 @@
 
 ### Demo演示
 
-[VolatileKeyDemo](src\main\java\basic\VolatileKeyDemo.java)
+[VolatileKeyDemo](https://github.com/Byron4j/fuckjava-thread-concurrency/blob/master/src/main/java/org/byron4j/fuckjavathreadconcurrency/volatiletest/VolatileKeyDemo.java)
 
 ### 概念分析
 
@@ -73,7 +73,7 @@
 
 ### 运行实例
 
-运行 [VolatileKeyDemo.java](src\main\java\basic\VolatileKeyDemo.java)
+运行 [VolatileKeyDemo.java](https://github.com/Byron4j/fuckjava-thread-concurrency/blob/master/src/main/java/org/byron4j/fuckjavathreadconcurrency/volatiletest/VolatileKeyDemo.java)
 
 ```java
 /**
@@ -90,5 +90,5 @@
 参考资料:
 
 - [```The volatile keyword in Java```](https://www.javamex.com/tutorials/synchronization_volatile.shtml)
-- [正确使用 Volatile 变量(https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
+- [正确使用 Volatile 变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 
