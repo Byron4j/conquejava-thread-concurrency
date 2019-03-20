@@ -4,9 +4,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Utils {
-    static final int CPU_COUNT = Runtime.getRuntime().availableProcessors();
-    static final int THREAD_COUNT = CPU_COUNT * 2;
-    static final ExecutorService executorService = new ThreadPoolExecutor(THREAD_COUNT,
+    public static final int CPU_COUNT = Runtime.getRuntime().availableProcessors();
+    public static final int THREAD_COUNT = CPU_COUNT * 2;
+    public static final ExecutorService executorService = new ThreadPoolExecutor(THREAD_COUNT,
                                                                             THREAD_COUNT,
                                                                             0L,
                                                                             TimeUnit.MILLISECONDS,
