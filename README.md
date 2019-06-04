@@ -11,5 +11,6 @@
 
 - ✨[```Volitale```关键字与Java线程内存模型](articles/1-Volitale关键字与Java线程内存模型/1-Volitale关键字与Java线程内存模型.md)
 - ✨[Java5之前的同步与并发处理](articles/2-Java5之前的同步与并发处理/2-Java5之前的同步与并发处理.md)
+- ✨[关于Java线程的一些场景问题](articles/3-关于Java线程的一些场景问题/1-线程执行顺序控制的业务场景.md)
 
 

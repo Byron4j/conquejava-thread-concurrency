@@ -94,4 +94,9 @@ public class Utils {
                     e.toString());
         }
     }
+    
+    
+    public static long acquireCurrMillisSec() {
+    	return System.currentTimeMillis();
+    }
 }
