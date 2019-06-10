@@ -15,6 +15,8 @@
 - ✨[一个简单的死锁案例](articles/3-关于Java线程的一些场景问题/2-一个死锁示例.md)
 - ✨[基于CAS思想的java并发AtomicBoolean](articles/5-基于CAS思想的java并发AtomicBoolean/1-基于CAS思想的java并发AtomicBoolean.md)
 - ✨[CountDownLatch、CyclicBarrier、Semaphore](articles/4-CountDOwnLatchCyclicBarrierSemaphore/1-CountDownLatchCyclicBarrierSemaphore.md)
+- ✨[Java并发之Condition](articles/6-Java并发之Condition/Java并发之Condition.md)
+- ✨[Wait、Notify案例](src/main/java/org/byron4j/fuckjavathreadconcurrency/curr/waitnotifypattern/WaitNotifyTest.java)
 
 
 #### 参考资料
