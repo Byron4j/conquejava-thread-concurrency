@@ -12,5 +12,13 @@
 - ✨[```Volitale```关键字与Java线程内存模型](articles/1-Volitale关键字与Java线程内存模型/1-Volitale关键字与Java线程内存模型.md)
 - ✨[Java5之前的同步与并发处理](articles/2-Java5之前的同步与并发处理/2-Java5之前的同步与并发处理.md)
 - ✨[关于Java线程的一些场景问题](articles/3-关于Java线程的一些场景问题/1-线程执行顺序控制的业务场景.md)
+- ✨[一个简单的死锁案例](articles/3-关于Java线程的一些场景问题/2-一个死锁示例.md)
+- ✨[基于CAS思想的java并发AtomicBoolean](articles/5-基于CAS思想的java并发AtomicBoolean/1-基于CAS思想的java并发AtomicBoolean.md)
+- ✨[CountDownLatch、CyclicBarrier、Semaphore](articles/4-CountDOwnLatchCyclicBarrierSemaphore/1-CountDownLatchCyclicBarrierSemaphore.md)
 
 
+#### 参考资料
+
+- [Java8虚拟机规范](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+- [Java8语言规范](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
+- [JavaSE规范](https://docs.oracle.com/javase/specs/)
